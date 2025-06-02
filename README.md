@@ -1,2 +1,1 @@
-# terraform-course
-A repo created by Terraform
+## Hello from Terraform!
